@@ -1,2 +1,2 @@
 # my-contacts-backend
-My first course project
+Meu primeiro projeto de um curso da HOTMART.
