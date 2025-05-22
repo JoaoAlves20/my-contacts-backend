@@ -1,0 +1,18 @@
+{
+  "name": "my-contacts-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoaoAlves20/my-contacts-backend.git",
+  "author": "JoaoAlves20 <jvsimoesalves@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
